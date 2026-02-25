@@ -1,1 +1,5 @@
+External Geometry Only: Please be advised that this model focuses exclusively on the external geometric shapes and structural dimensions of the design.
 
+Internal Confidentiality: Due to confidentiality and security protocols, the internal mechanisms, specific component layouts, and proprietary technical details are not included in these files.
+
+Reference Purpose: This project is intended to serve as a geometric reference or a "design-like" template for those working on similar mechanical configurations. It provides a visual and spatial framework without disclosing protected internal IP.
